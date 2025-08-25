@@ -6,9 +6,6 @@
 
 ### Dashboard Comercial 
 
-<img width="1122" height="624" alt="image" src="https://github.com/user-attachments/assets/436df01d-e67d-43cf-8af4-3fd5c988fe45" />
-
-
 # Resumo
 
 Aqui entra a funcionalidade do Background de cores que façam com que o visual fique mais interessante e vivo no contexto das informações
